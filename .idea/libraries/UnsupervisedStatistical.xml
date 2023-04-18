@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="UnsupervisedStatistical">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/weka.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jfreechart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcommon-1.0.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
